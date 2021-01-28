@@ -1,0 +1,16 @@
+{
+    "name": "aneke/devallen",
+    "description": "Gerenciador de Dependencias",
+    "authors": [
+        {
+            "name": "Aneke Allen",
+            "email": "anekeapj@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.2",
+        "league/oauth2-client": "^2.6",
+        "league/oauth2-google": "^3.0",
+        "hayageek/oauth2-yahoo": "^2.0"
+    }
+}
