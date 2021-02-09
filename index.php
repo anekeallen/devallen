@@ -246,6 +246,7 @@
           
         </div>
       </div>
+
       <div class="col-lg-4 col-md-6 portfolio-item filter-sis">
         <div class="portfolio-img"><img src="assets/img/portfolio/delivery-balconista.png" class="img-fluid" alt=""></div>
         <div class="portfolio-info">
@@ -255,6 +256,7 @@
           
         </div>
       </div>
+
       <div class="col-lg-4 col-md-6 portfolio-item filter-sis">
         <div class="portfolio-img"><img src="assets/img/portfolio/sistema-escolar.png" class="img-fluid" alt=""></div>
         <div class="portfolio-info">
@@ -283,6 +285,17 @@
           <h4>Sistema Web Escolar / Painel Aluno</h4>
           <p>Sistema escolar,<br> responsivo, jquery, ajax</p>
           <a href="assets/img/portfolio/sistema-escolar-aluno.png" data-gall="portfolioGallery" class="venobox preview-link" title="Ver Foto"><i class="bx bx-plus"></i></a>
+          
+        </div>
+        
+      </div>
+
+      <div class="col-lg-4 col-md-6 portfolio-item filter-blog">
+        <div class="portfolio-img"><img src="assets/img/portfolio/oblogdeantoniomartins.png" class="img-fluid" alt=""></div>
+        <div class="portfolio-info">
+          <h4>Blog de Notícias Wordpress</h4>
+          <p>Portal de Notícias,<br> responsivo, wordpress</p>
+          <a href="assets/img/portfolio/oblogdeantoniomartins.png" data-gall="portfolioGallery" class="venobox preview-link" title="Ver Foto"><i class="bx bx-plus"></i></a>
           
         </div>
         
