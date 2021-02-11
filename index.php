@@ -113,17 +113,18 @@
     </div>
     <div class="row">
       <div class="col-md-4">
-        <div class="service-box">
+        <a href="criar-sites.php" title="Veja como é o processo"><div class="service-box">
           <div class="service-ico">
             <span class="ico-circle"><i class="ion-code-working"></i></span>
           </div>
           <div class="service-content">
             <h2 class="s-title">Criação de Sites</h2>
+            
             <p class="s-description text-center">
               Desenvolvedor de Sites, websites personalizados. Sites em HTML, CSS3, JavaScript, PHP, MySql.
             </p>
           </div>
-        </div>
+        </div></a>
       </div>
       <div class="col-md-4">
         <div class="service-box">
@@ -318,25 +319,5 @@
 
 <?php include_once('footer.php') ?>
 
-<a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
-<div id="preloader"></div>
 
-<!-- Vendor JS Files -->
-<script src="assets/vendor/jquery/jquery.min.js"></script>
-<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-<script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-<script src="assets/vendor/php-email-form/validate.js"></script>
-<script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
-<script src="assets/vendor/counterup/jquery.counterup.min.js"></script>
-<script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
-<script src="assets/vendor/typed.js/typed.min.js"></script>
-<script src="assets/vendor/venobox/venobox.min.js"></script>
-<script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-
-<!-- Template Main JS File -->
-<script src="assets/js/main.js"></script>
-
-</body>
-
-</html>
 

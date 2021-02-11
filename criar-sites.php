@@ -74,23 +74,22 @@
       <div class="navbar-collapse collapse justify-content-end" id="navbarDefault">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link js-scroll active" title="Home" href="#page-top">Home</a>
+            <a class="nav-link js-scroll active" title="Processo" href="#page-top">Como é o Processo</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll" title="Sobre" href="#about">Sobre</a>
+            <a class="nav-link js-scroll" title="Vantagens" href="#about">Vantagens de um Site</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll" title="Serviços" href="#service">Serviços</a>
+            <a class="nav-link js-scroll" title="Sites Desenvolvidos" href="#about">Sites Desenvolvidos</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll" title="Portfólio" href="#portfolio">Portfólio</a>
+            <a class="nav-link js-scroll" title="Solicite um Orçamento" href="#service">Solicite um Orçamento</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll" title="Contato" href="#contact">Contato</a>
-          </li>
+          
         </ul>
       </div>
     </div>
   </nav>
+</body>
+</html>
 
-  
