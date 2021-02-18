@@ -13,6 +13,7 @@ body {
   color: #4e4e4e;
 }
 
+
 h1,
 h2,
 h3,
@@ -877,7 +878,7 @@ a:hover {
   width: 100%;
   position: absolute;
   -webkit-transition: 3s all;
-    transition: 3s all;
+  transition: 3s all;
 }
 
 .portfolio .portfolio-item .portfolio-info {
@@ -1287,20 +1288,114 @@ footer .credits a {
 
 #conteudo img{
  position: absolute;
-  left: 0;
-  right: 0;
-  top: 0;
-  bottom: 0;
-  margin: auto;
-  max-width: 100%;
-  max-height: 100%;
+ left: 0;
+ right: 0;
+ top: 0;
+ bottom: 0;
+ margin: auto;
+ max-width: 100%;
+ max-height: 100%;
 
 
 }
 
 .service-ico {
 
-   position: relative;
-  
+ position: relative;
+
 }
 
+/*--------------------------------------------------------------
+# Pagina Criar Sites
+--------------------------------------------------------------*/
+
+#fundo {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+  width: 100%;
+  height: 650px;
+  overflow: hidden;
+
+}
+#gradiente{
+  position: relative;
+  left: 50%;
+  margin-left: -1000px;
+  width: 2000px;
+  background-image: linear-gradient( 
+    135deg
+    , #0046EB 10%, #043F7F 100%);
+  height: 85%;
+}
+#gradiente:before {
+  content: "";
+  display: block;
+  position: absolute;
+  border-radius: 170% 46%;
+  width: 1535px;
+  height: 340px;
+  background-color: white;
+  right: -5px;
+  top: 89%;
+}
+#gradiente:after {
+  content: "";
+  display: block;
+  position: absolute;
+  border-radius: 100% 30%;
+  width: 1320px;
+  height: 190px;
+  left: -42px;
+  top: 72%;
+  background-image: linear-gradient( 
+    135deg
+    , #0046EB 0%, #043F7F 100%);
+}
+
+#banner{
+  margin-top: 100px;
+  width: 100%;
+}
+
+#banner-img{
+  float: right;
+  width: 50%;
+  
+  margin-right: -100px;
+
+}
+
+.center{
+  width: 100%;
+  max-width: 1170px;
+  margin: 0 auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.banner-left {
+  float: left;
+  clear: both;
+  width: 50%;
+  margin-top: 70px;
+}
+
+.banner-left h1 {
+  float: left;
+  clear: both;
+  width: 100%;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  color: #fff;
+}
+
+.banner-left p{
+  color: #fff;
+  float: left;
+  clear: both;
+
+}

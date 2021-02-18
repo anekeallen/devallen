@@ -61,35 +61,71 @@
 </head>
 
 <body id="page-top">
+  <div id= "fundo" class="fundo">
+    <div id="gradiente">
 
-  <!-- ======= Header/ Navbar ======= -->
-  <nav class="navbar navbar-b navbar-trans navbar-expand-md fixed-top" id="mainNav">
-    <div class="container">
-      <a class="navbar-brand js-scroll" title="DevAllen - Desenvolvedor Web" href="index.php">DevAllen</a>
-      <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault" aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
-        <span></span>
-        <span></span>
-        <span></span>
-      </button>
-      <div class="navbar-collapse collapse justify-content-end" id="navbarDefault">
-        <ul class="navbar-nav">
-          <li class="nav-item">
-            <a class="nav-link js-scroll active" title="Processo" href="#page-top">Como é o Processo</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll" title="Vantagens" href="#about">Vantagens de um Site</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll" title="Sites Desenvolvidos" href="#about">Sites Desenvolvidos</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll" title="Solicite um Orçamento" href="#service">Solicite um Orçamento</a>
-          </li>
-          
-        </ul>
-      </div>
     </div>
-  </nav>
-</body>
-</html>
+  </div>
+  <header>
+    <!-- ======= Header/ Navbar ======= -->
+    <nav class="navbar navbar-b navbar-trans navbar-expand-md fixed-top" id="mainNav">
+      <div class="container">
+        <a class="navbar-brand js-scroll" title="DevAllen - Desenvolvedor Web" href="index.php">DevAllen</a>
+        <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault" aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+        <div class="navbar-collapse collapse justify-content-end" id="navbarDefault">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link js-scroll active" title="Processo" href="#page-top">Como é o Processo</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll" title="Vantagens" href="#about">Vantagens de um Site</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll" title="Sites Desenvolvidos" href="#about">Sites Desenvolvidos</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll" title="Solicite um Orçamento" href="#service">Solicite um Orçamento</a>
+            </li>
+
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+  </header>
+
+  <section>
+    <article id="banner">
+      <div class="center">
+<div class="row">
+        <div class="banner-left col-md-6 col-12">
+          <h1>Desenvolvimento e Criação de Sites</h1>
+          <div>
+            <p>
+              Buscando <strong>desenvolvimento de sites</strong> ou serviços de <strong>criação de sites em são paulo</strong>?<br>Oferecemos <strong>desenvolvimento de sites profissionais e modernos</strong> desde 2014. Atendendo São Paulo e também todo Brasil. Sites modernos e personalizados que vão aparecer no Google!
+            </p>
+          </div>
+
+        </div>
+        </div>
+        <div id="banner-img" class="col-md-6col-12" >
+          <img src="assets/img/web-design.png" class="img-fluid" width="500px" alt="">
+
+        </div>
+        
+        
+
+      </div>
+    </article>
+  </section>
+
+
+
+  
+
+
 
