@@ -68,7 +68,7 @@
   </div>
   <header>
     <!-- ======= Header/ Navbar ======= -->
-    <nav class="navbar navbar-b navbar-trans navbar-expand-md fixed-top" id="mainNav">
+    <nav class="navbar navbar-b navbar-trans navbar-expand-lg fixed-top " id="mainNav">
       <div class="container">
         <a class="navbar-brand js-scroll" title="DevAllen - Desenvolvedor Web" href="index.php">DevAllen</a>
         <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault" aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
@@ -76,18 +76,18 @@
           <span></span>
           <span></span>
         </button>
-        <div class="navbar-collapse collapse justify-content-end" id="navbarDefault">
-          <ul class="navbar-nav">
-            <li class="nav-item">
+        <div class="navbar-collapse collapse justify-content-end custom" id="navbarDefault">
+          <ul class="navbar-nav ml-auto" >
+            <li class="nav-item text-nowrap p-0">
               <a class="nav-link js-scroll active" title="Processo" href="#page-top">Como é o Processo</a>
             </li>
-            <li class="nav-item">
+            <li class="nav-item text-nowrap p-0">
               <a class="nav-link js-scroll" title="Vantagens" href="#about">Vantagens de um Site</a>
             </li>
-            <li class="nav-item">
+            <li class="nav-item text-nowrap p-0">
               <a class="nav-link js-scroll" title="Sites Desenvolvidos" href="#about">Sites Desenvolvidos</a>
             </li>
-            <li class="nav-item">
+            <li class="nav-item text-nowrap p-0">
               <a class="nav-link js-scroll" title="Solicite um Orçamento" href="#service">Solicite um Orçamento</a>
             </li>
 
@@ -99,29 +99,43 @@
   </header>
 
   <section>
-    <article id="banner">
-      <div class="center">
-<div class="row">
-        <div class="banner-left col-md-6 col-12">
-          <h1>Desenvolvimento e Criação de Sites</h1>
-          <div>
-            <p>
-              Buscando <strong>desenvolvimento de sites</strong> ou serviços de <strong>criação de sites em são paulo</strong>?<br>Oferecemos <strong>desenvolvimento de sites profissionais e modernos</strong> desde 2014. Atendendo São Paulo e também todo Brasil. Sites modernos e personalizados que vão aparecer no Google!
-            </p>
+    <article >
+      <div class="container mt-5">
+        <div class="row">
+
+          <div class="banner-left col-md-6 col-12 pt-lg-4 mt-lg-5 ">
+            <h1 class="text-md-left text-center">Desenvolvimento e Criação de Sites</h1>
+            <div>
+              <p class="text-justify">
+                Buscando desenvolvimento de sites, sistemas web, aplicativos ou serviços relacionados a desevolvimento web?<br>Oferecemos desenvolvimento de sites profissionais e modernos, feito exclusivamente para sua empresa. Sites modernos e personalizados que vão aparecer no Google!
+              </p>
+            </div>
+            <a href="#orcamento" title="Solicite um Orçamento" class="solicite-orcamento ancora">Solicite um Orçamento</a>
+
+          </div>
+          <div class="col-md-6 mt-md-4 pt-lg-0 pt-md-5 pl-md-5 pr-md-0  d-none d-xl-block d-lg-block d-md-block justify-content-end">
+
+            <img src="assets/img/web-design.png" class="img-fluid mt-5 mt-md-0 pr-2" width="500px" alt="">
+
+
+
+
           </div>
 
-        </div>
-        </div>
-        <div id="banner-img" class="col-md-6col-12" >
-          <img src="assets/img/web-design.png" class="img-fluid" width="500px" alt="">
+
 
         </div>
-        
-        
-
       </div>
+      
+    </article>
+    <article>
+      
+
+      
     </article>
   </section>
+
+  
 
 
 
